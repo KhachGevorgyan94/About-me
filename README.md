@@ -38,9 +38,10 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-
  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   
