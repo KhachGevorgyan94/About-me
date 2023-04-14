@@ -29,4 +29,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: Any new project motivates me to gain new knowledge and experience.
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
