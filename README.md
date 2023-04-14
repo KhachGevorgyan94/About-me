@@ -23,10 +23,10 @@
 
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Armenia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Having six years of work experience, I developed more than 30 projects.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I value high-quality, competent work with teammates and an increased sense of responsibility in every job.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Any new project motivates me to gain new knowledge and experience.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khachik-gevorgyan-983379175)
+
