@@ -17,3 +17,6 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="400"/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
